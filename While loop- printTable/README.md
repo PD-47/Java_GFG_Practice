@@ -16,3 +16,5 @@ Output: 20 18 16 14 12 10 8 6 4 2
 
 Constraints:
 1 <= n<= 1000
+
+For the solution see Solution.java
