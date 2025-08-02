@@ -1,1 +1,1 @@
-# Java_GFG_Practice
+# Java_Practice
